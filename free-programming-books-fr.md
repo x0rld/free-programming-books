@@ -214,6 +214,7 @@
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+* [Apprendre à coder en PHP et MySQL ](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) (HTML)
 
 
 #### Symfony
